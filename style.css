@@ -1,0 +1,20 @@
+body{
+    background-image: linear-gradient(to right, red, yellow);
+}
+.wrapper{
+    /* background-color: brown; */
+    text-align: center;
+}
+h1{
+    font-family: 'Play', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-size: 45px;
+}
+h2{
+    font-family: 'Cinzel', serif;
+    letter-spacing: 10px;
+}
+h3{
+    font-family: serif;
+}
